@@ -1,5 +1,5 @@
 # Internet Speed Test (IST)
-#IST speed test gives you an estimate of your current Internet speed. You will generally be able to get this speed from leading Internet services, which use globally distributed servers.
+<h3> #IST speed test gives you an estimate of your current Internet speed. You will generally be able to get this speed from leading Internet services, which use globally distributed servers. </h3>
 
 - Why does #IST focus primarily on download speed?
  > Download speed is most relevant for people who are consuming content on the Internet, and we want #IST to be a very simple and fast speed test.
