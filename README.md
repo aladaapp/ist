@@ -8,7 +8,7 @@
 > When you click the “Show more info” button, you can see your upload speed and connection latency (ping). #IST provides two different latency measurements for your Internet connection: “unloaded” and “loaded” with traffic. The difference between these two measurements is also called “bufferbloat”.
 
 - How are the results calculated?
-> To calculate your Internet speed, #IST performs a series of downloads from and uploads to @AladaApp servers and calculates the maximum speed your Internet connection can provide. More details are in our blog post.
+> To calculate your Internet speed, #IST performs a series of downloads from and uploads to @AladaApp servers and calculates the maximum speed your Internet connection can provide.
 
 - Will the #IST speed test work everywhere in the world?
 > #IST will test Internet speed globally on any device (phone, laptop, or smart TV with browser).
